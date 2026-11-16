@@ -1,0 +1,7 @@
+node_modules/
+.env
+mezox.db
+mezox.db-shm
+mezox.db-wal
+npm-debug.log
+.DS_Store
